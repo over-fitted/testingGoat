@@ -25,7 +25,7 @@ SECRET_KEY = '68gwcs3u!-nuo((rzn836*=y$dniib!7)zq3vc9w5x2h_utg_*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
